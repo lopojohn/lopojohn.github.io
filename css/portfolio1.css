@@ -1,0 +1,20 @@
+h1{
+  color:blue;
+  text-align:center;
+
+ }
+
+ p1{
+   text-indent:left;
+   color:blue;
+   text-align: center;
+}
+p2{color:green;
+   font-family:monospace;
+   text-align:right;
+ }
+ body{background-color:lightgreen;}
+
+ div{border-color:green;
+    background-color:lightblue;
+    border-width:medium;}
